@@ -4,7 +4,7 @@
 This is a media player for Daily UI's Day 008 challenge for the <a href="https://www.dailyui.co/"> 100 Days of UI 
 challange.</a></p>
 
-- [Repo](https://github.com/kelseychristensen/Daily-UI-Day-008 "Daily UI Day 03 Repo")
+- [Repo](https://github.com/kelseychristensen/Daily-UI-Day-009 "Daily UI Day 03 Repo")
 - [Dribbble](https://dribbble.com/shots/20035611-Daily-UI-Day-008-Media-Player "Dribbble Link")
 
 ![Desktop 1](1.PNG "Screenshot")
