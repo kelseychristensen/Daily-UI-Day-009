@@ -1,7 +1,7 @@
 <h1 align="center">Daily UI Day 008: Media Player</h1>
 
 <p align="center">
-This is a media player for Daily UI's Day 008 challenge for the <a href="https://www.dailyui.co/"> 100 Days of UI 
+This is a media player for Daily UI's Day 009 challenge for the <a href="https://www.dailyui.co/"> 100 Days of UI 
 challange.</a></p>
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-Day-009 "Daily UI Day 03 Repo")
