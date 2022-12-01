@@ -7,10 +7,10 @@ challange.</a></p>
 - [Repo](https://github.com/kelseychristensen/Daily-UI-Day-008 "Daily UI Day 03 Repo")
 - [Dribbble](https://dribbble.com/shots/20035611-Daily-UI-Day-008-Media-Player "Dribbble Link")
 
-![Section 1](2.PNG "Screenshot")
-![Section 1](4.PNG "Screenshot")
-![Section 1](1.PNG "Screenshot")
-![Section 1](3.PNG "Screenshot")
+![Desktop 1](1.PNG "Screenshot")
+![Desktop 2](4.PNG "Screenshot")
+![Mobile 1](2.PNG "Screenshot")
+![Mobile 3](3.PNG "Screenshot")
 
 ## My Process
 
