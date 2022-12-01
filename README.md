@@ -10,7 +10,7 @@ challange.</a></p>
 ![Section 1](2.PNG "Screenshot")
 ![Section 1](4.PNG "Screenshot")
 ![Section 1](1.PNG "Screenshot")
-![Section 1](2.PNG "Screenshot")
+![Section 1](3.PNG "Screenshot")
 
 ## My Process
 
